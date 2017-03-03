@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- blue color Last 2 difits should be ff !! RGB !! R & G can be decred accordingly-->
+
+    <color name="light_blue_10">#e5ecff</color>
+    <color name="light_blue_9">#eaf1ff</color>
+    <color name="light_blue_8">#edf2ff</color>
+    <color name="light_blue_7">#eff4ff</color>
+    <color name="light_blue_6">#f4f8ff</color>
+    <color name="light_blue_5">#f9fbff</color>
+    <color name="light_blue_4">#fcfcff</color>
+
+    <!-- Grey 2nd Alternate numbers should be reduced F to 1,0  accordingly-->
+    <!-- Grey 1nd Alternate numbers should be reducing will increase darkness accordingly-->
+
+    <color name="light_grey_1">#fcfcfc</color>
+    <color name="light_grey_2">#f9f9f9</color>
+    <color name="light_grey_3">#f2f2f2</color>
+    <color name="light_grey_4">#efefef</color>
+    <color name="light_grey_5">#eaeaea</color>
+    <color name="light_grey_6">#e5e5e5</color>
+    <color name="light_grey_7">#e0e0e0</color>
+    <color name="light_grey_8">#dfdfdf</color>
+    <color name="light_grey_9">#dddddd</color>
+    <color name="light_grey_10">#d9d9d9</color>
+    <color name="light_grey_11">#cecece</color>
+
+
+        <color name="transparent_background">#00000000</color>
+        <color name="grey">#FF888888</color>
+        <color name="transparent">#00000000</color>
+        <color name="white">#FFFFFFFF</color>
+        <color name="plot_color">#aaaaaa</color>
+        <color name="black">#FF000000</color>
+        <color name="red">#ffff0000</color>
+        <color name="translucent">#66000000</color>
+        <color name="translucent_profilelist">#80000000</color>
+        <color name="deongaree">#3a9bf8</color>
+        <color name="black_gray">#666666</color>
+        <color name="font_grey">#FFAAAAAA</color>
+        <color name="search_to_tv_focus_bg">#88000000</color>
+        <color name="panel_content_color">#b0000000</color>
+        <color name="pink">#e72c7f</color>
+        <!-- live tv 文字颜色 -->
+        <color name="tv_first_menu_color">#202020</color>
+        <color name="tv_top_bottom_bg">#50000000</color>
+        <color name="tv_category_select">#2cb4ad</color>
+        <color name="tv_channel_item_bg_f">#30000000</color>
+        <color name="tv_channel_item_bg">#50000000</color>
+        <color name="tv_channel_item_text">#787878</color>
+        <color name="tv_channel_middle_text">#FFFFFFFF</color>
+        <color name="tv_channel_playbil_text">#999999</color>
+        <color name="tv_channel_record_time_text">#f5f5f5</color>
+        <color name="tv_channel_record_time_fous">#1e1e1e</color>
+        <color name="tv_channel_record_time">#616161</color>
+        <color name="tv_channel_date_unclickable">#959595</color>
+
+        <color name ="tv_detail_num">#ffffff</color>
+        <color name ="tv_channel_detail_name">#1e1e1e</color>
+        <color name ="tv_channel_detail_time">#999999</color>
+        <color name="tv_channel_detail_introduce">#777777</color>
+        <color name="tv_fav_ok_pad">#2cb4ad</color>
+        <color name ="tv_record_line">#c7c7c7</color>
+
+        <color name="tv_pad_channellist_bg">#f6f6f6</color>
+        <color name="tv_pad_list_playbill_name">#9c9c9c</color>
+        <color name="tv_pad_list_playbill_time">#625f5c</color>
+        <color name="tv_pad_list_divider_color">#e4e4e4</color>
+        <color name="tv_pad_list_rightline">#c8c9c6</color>
+        <color name="tv_pad_channel_logo_bg">#c6c6c6</color>
+        <color name="tv_select_name">#2cb4ad</color>
+        <color name="tv_no_select_name">#1e1e1e</color>
+
+        <color name="dialog_pin_content_color">#1e1e1e</color>
+        <color name="tv_live_pad_transparent">#70FFFFFF</color>
+
+        <color name="tv_live_playbill_expired">#666666</color>
+        <color name="tv_live_playbill_nowing">#2cb4ae</color>
+        <color name="tv_live_playbill_Future">#aaaaaa</color>
+        <!-- reminder -->
+        <color name="reminder_title_text">#2cb4ad</color>
+        <color name="reminder_name_text">#504f4f</color>
+        <color name="reminder_pad_name_text">#787878</color>
+        <color name="reminder_pad_content_text">#1e1e1e</color>
+        <color name="reminder_item_channel">#777777</color>
+        <color name="reminder_snooze_not_clicked">#979797</color>
+
+        <!-- more color -->
+        <color name="select_blue">#385487</color>
+        <color name="light_grey">#999999</color>
+        <color name="account_menu">#303030</color>
+        <color name="item_focused_bg">#0099ff</color>
+        <color name="blue">#3191e2</color>
+        <color name="gray">#303030</color>
+        <color name="search_type_grid_bg">#2c2c2c</color>
+        <color name="gold">#D9D919</color>
+
+        <!-- mytvgo -->
+        <color name="mytvgo_sub_vod_pack_bg">#333333</color>
+        <color name="mytvgo_sub_click_vodpack">#2cb4ad</color>
+        <color name="mytvgo_sub_noneclick_vodpack">#ffffff</color>
+        <color name="mytvgo_sub_pd_time">#999999</color>
+        <color name="my_tv_title_item">#2c2b2f</color>
+        <color name="my_tv_notice_color">#ffffff</color>
+        <color name="pad_my_tv_title_item">#E8E8E8</color>
+        <color name="pad_history_time_color">#9a9a9a</color>
+        <color name="mytv_bb">#bbbbbb</color>
+
+        <!-- mytvgo-billing -->
+        <color name ="mytv_999">#999999</color>
+        <color name="mytvgo_billing_bg">#333333</color>
+        <!-- slidingMenu 文字颜色 -->
+        <drawable name="sliding_txt_normal">#C6C6C6</drawable>
+        <drawable name="sliding_txt_on">#C6C6C6</drawable>
+        <drawable name="sliding_list_selected">#ea7c00</drawable>
+
+        <color name="sliding_item_selected">#000000</color>
+        <color name="sliding_separator">#242424</color>
+        <!-- detail 文字颜色 -->
+        <color name="vod_score">#2cb4ad</color>
+        <color name="vod_episode">#ea7d00</color>
+        <color name="vod_menu">#ffffff</color>
+        <color name="vod_pad_bar">#ee7f00</color>
+        <color name="rate_menu">#000000</color>
+        <color name="rate_done">#2cb4ad</color>
+        <color name="phone_vod_menu">#ffffff</color>
+
+
+        <!-- settings -->
+        <color name="background_white">#fefefe</color>
+        <color name="orange">#2cb4ad</color>
+        <color name="about_gray">#949494</color>
+        <color name="pad_background">#80000000</color>
+        <color name="pad_title_background">#fcfcfc</color>
+        <color name="pad_text">#2db5ae</color>
+        <color name="pad_text_gray">#787878</color>
+        <color name="pad_text_color">#2db5ae</color>
+
+        <!-- profile -->
+        <color name="list_divider_color">#bcbcbc</color>
+        <color name="light_black">#242223</color>
+        <color name="light_red">#e53f27</color>
+        <color name="forgotten_color">#a99281</color>
+        <color name="login_check_color">#1e1e1e</color>
+        <color name="profile_pwd_color">#969696</color>
+        <color name="profile_default_text">#414141</color>
+        <color name="profile_name_color">#ff7800</color>
+        <color name="profile_level_color">#777777</color>
+        <color name="profile_list_line">#b9b9b9</color>
+        <color name="create_profile_text_color">#393939</color>
+        <color name="profile_log_out_color">#ec7c00</color>
+        <color name="device_message_color">#222222</color>
+        <color name="device_message_tips">#232323</color>
+        <color name="device_message_replace">#1e1e1e</color>
+        <color name="device_message_cancel">#e88800</color>
+        <color name="device_name_color">#3f3f3f</color>
+        <color name="profile_name_switch_color">#404040</color>
+        <color name="profile_name_main_color">#979797</color>
+        <color name="profile_add_color">#353535</color>
+        <color name="profile_pin_color">#929292</color>
+        <color name="profile_reset_color">#db8b17</color>
+        <color name="subscriber_message_color">#1c1c1c</color>
+
+        <!-- vod海报 -->
+        <color name="vod_score_text">#2cb4ad</color>
+        <color name="vod_name_text">#050000</color>
+        <color name="vod_rate_text">#000000</color>
+        <color name="vod_select_name">#2cb4ad</color>
+        <color name="vod_trailer_name">#777777</color>
+
+
+        <!-- search -->
+        <color name="light_gray">#656565</color>
+        <color name="hint_color">#ababab</color>
+        <color name="half_white">#80ffffff</color>
+        <color name="search_category">#737373</color>
+        <color name="search_category_input">#9f9f9f</color>
+        <color name="search_btn">#edc381</color>
+
+
+        <!-- product list -->
+        <color name="time_text">#030303</color>
+        <color name="package_text">#333333</color>
+        <color name="pad_package_text">#777777</color>
+        <color name="title_orange">#2BB4AD</color>
+        <color name="pad_title_bg">#fafafa</color>
+        <color name="pad_txt_color">#2cb4ad</color>
+        <color name="pad_name_color">#EF7D00</color>
+
+        <!-- Recommended start-->
+        <color name="refresh_text">#FFFFFFFF</color>
+        <color name="half_transparent_background">#50000000</color>
+        <color name="recommended_tablet_tab_selected">#FFFFFF</color>
+        <color name="recommended_tablet_tab_un_selected">#787878</color>
+        <!-- Recommended end-->
+        <color name="filter_item_text_color">#6e6c6c</color>
+        <color name="miniepg_item_text_color">#a3a3a3</color>
+        <color name="miniepg_radio_color">#7d7d7d</color>
+        <!-- main frame start -->
+        <color name="main_bottom_item_clicked">#FFFFFFFF</color>
+        <color name="main_bottom_item_normal">#7F7F82</color>
+        <!-- main frame end -->
+        <color name="search_blue">#e72c7f</color>
+
+        <!-- PullToRefresh背景色 -->
+        <color name="pull_to_refresh_base_bg">#2c2b2f</color>
+        <!-- modify psw hint-->
+        <color name="text_hint_color">#7f7f7f</color>
+</resources>

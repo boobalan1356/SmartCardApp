@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fresh"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/applogo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Splash"
+            android:label="@string/app_name">
+            <!--            <intent-filter>
+                            <action android:name="android.intent.action.MAIN" />
+
+                            <category android:name="android.intent.category.LAUNCHER" />
+                        </intent-filter>-->
+        </activity>
+
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="com.example.fresh.MAINACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".Menu"
+            android:label="@string/app_name">
+            <!--            <intent-filter>
+                            <action android:name="com.example.fresh.MENU" />
+
+                            <category android:name="android.intent.category.DEFAULT" />
+                        </intent-filter>-->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Example1"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="com.example.fresh.EXAMPLE1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".TextPlay"
+            android:label="@string/app_name">
+
+        </activity>
+
+        <activity
+            android:name=".SmartCard"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="com.example.fresh.SMARTCARD" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!--        <activity
+                    android:name=".Example2"
+                    android:label="@string/app_name" >
+                    <intent-filter>
+                        <action android:name="com.example.fresh.EXAMPLE2" />
+
+                        <category android:name="android.intent.category.DEFAULT" />
+                    </intent-filter>
+                </activity>
+
+                <activity
+                    android:name=".Example3"
+                    android:label="@string/app_name" >
+                    <intent-filter>
+                        <action android:name="com.example.fresh.EXAMPLE3" />
+
+                        <category android:name="android.intent.category.DEFAULT" />
+                    </intent-filter>
+                </activity>-->
+
+    </application>
+
+</manifest>
