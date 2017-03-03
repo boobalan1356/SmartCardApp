@@ -66,7 +66,7 @@ public class SmartCard extends Activity {
 
                                 }
                             }
-                    );
+                    );           
                 }
 
                 //cardNo = cardNoInput.getText().toString();
